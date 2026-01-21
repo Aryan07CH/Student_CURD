@@ -65,5 +65,4 @@ A backend-focused Spring Boot application designed to manage Student data using 
 6. ```bash
    git clone https://github.com/your-username/student-crud-springboot.git
 
-   ### ✅ Resume Tip (Optional)
 > *Developed a Spring Boot–based RESTful CRUD application using JPA and layered architecture to manage student records, demonstrating backend development and API design skills.*
